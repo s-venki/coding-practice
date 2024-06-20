@@ -1,0 +1,3 @@
+I am  going to solve leetcode problems.
+I am  going to create a branch for every problem i solved and going to write how i solved it in read.me file.
+I will try my best to do it regularly.
