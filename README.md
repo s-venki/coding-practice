@@ -1,7 +1,7 @@
 # The problem is to replace the words in the sentence with the root word in the list
 eg;
  input : 
- root words: cat rat bat
+ root words: cat rat bat.                                                                                                                                                                                                
  sentence: the cattle was rattled by the battery
 
  output:
